@@ -12,7 +12,7 @@ future==0.18.2
 googleapis-common-protos==1.52.0
 grpcio==1.29.0
 idna==2.9
-instapy==0.6.8
+instapy==0.6.12
 jsonschema==2.6.0
 MeaningCloud-python==1.2.2
 plyer==1.4.3
